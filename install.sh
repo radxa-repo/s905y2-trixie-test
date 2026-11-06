@@ -10,3 +10,4 @@ rm -f "$keyring"
 echo "deb [signed-by=/usr/share/keyrings/radxa-archive-keyring.gpg] https://radxa-repo.github.io/s905y2-trixie-test/ s905y2-trixie-test main" | \
     sudo tee /etc/apt/sources.list.d/70-s905y2-trixie-test.list
 sudo apt-get update
+

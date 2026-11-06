@@ -1,6 +1,7 @@
 # s905y2-trixie-test
 
 [![Update packages](https://github.com/radxa-repo/s905y2-trixie-test/actions/workflows/update.yaml/badge.svg)](https://github.com/radxa-repo/s905y2-trixie-test/actions/workflows/update.yaml)
+[![Publish packages](https://github.com/radxa-repo/s905y2-trixie-test/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-repo/s905y2-trixie-test/actions/workflows/build.yaml)
 
 ## Content
 
@@ -19,3 +20,4 @@ If your issue is related to a specific package's usage, you should file issues u
 # But, here is a convenient one-liner:
 curl https://radxa-repo.github.io/s905y2-trixie-test/install.sh | sh
 ```
+
